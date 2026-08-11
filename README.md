@@ -211,16 +211,6 @@ I believe that every project — even a small one — is an opportunity to under
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josspoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josspoot&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
